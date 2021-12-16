@@ -17,6 +17,10 @@ run the command, requirements straightforward and not necissary to download.
 
 Good for memorizing payloads and other inforamtion. Remember, It takes a lot longer to read and writer than it does to simply write! (or something like that) 
 
+### disclaimer 
+- AtomicBillyGruff is not responsible for carpal tunnel that may occur
+
+
 
 
 
